@@ -1,5 +1,6 @@
 const promise1 = new Promise((res,rej)=>{
-    const name='neraj';
+    const name='neeraj';
+
     if(name=='neeraj'){
         res('valid');
     }else{

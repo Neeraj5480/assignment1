@@ -8,7 +8,9 @@ async function message(num){
     }
 
 }
-message(-1).then(
+
+message(1).then(
+
     (val)=>{
         console.log(val);
     },
